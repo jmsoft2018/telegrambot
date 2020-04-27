@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Telegrambot\Controllers;
+namespace JMsoft\Telegrambot\Controllers;
 
-use jmsoft\Telegrambot\BotController;
+use JMsoft\Telegrambot\BotController;
 
 class DefaultBotController extends BotController
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Modules\Telegrambot\Controllers;
+namespace JMsoft\Telegrambot\Controllers;
 
 use App\Http\Controllers\Controller;
 
-use \jmsoft\Telegrambot\BotApi;
-use jmsoft\Telegrambot\BotDialog;
-use jmsoft\Telegrambot\BotRouter;
+use JMsoft\Telegrambot\BotApi;
+use JMsoft\Telegrambot\BotDialog;
+use JMsoft\Telegrambot\BotRouter;
 
 class MainController extends Controller
 {
